@@ -1,0 +1,12 @@
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\BusinessEntities\obj\Debug\BusinessEntities.csproj.AssemblyReference.cache
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\BusinessEntities\obj\Debug\BusinessEntities.csproj.AssemblyReference.cache
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\BusinessEntities\obj\Debug\BusinessEntities.pdb

@@ -1,0 +1,26 @@
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\DataAccessLayer\bin\Debug\BusinessEntities.dll
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\DataAccessLayer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\DataAccessLayer\bin\Debug\Utilities.dll
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\DataAccessLayer\bin\Debug\BusinessEntities.pdb
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\DataAccessLayer\bin\Debug\Utilities.pdb
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\DataAccessLayer\bin\Debug\System.Data.SqlClient.xml
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\DataAccessLayer\bin\Debug\BusinessEntities.dll
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\DataAccessLayer\bin\Debug\System.Data.SqlClient.dll
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\DataAccessLayer\bin\Debug\Utilities.dll
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\DataAccessLayer\bin\Debug\BusinessEntities.pdb
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\DataAccessLayer\bin\Debug\Utilities.pdb
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\DataAccessLayer\bin\Debug\System.Data.SqlClient.xml
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

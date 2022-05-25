@@ -1,0 +1,28 @@
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\BankingApplicationClient\obj\Debug\BankingApplicationClient.csproj.AssemblyReference.cache
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\BankingApplicationClient\obj\Debug\BankingApplicationClient.csproj.CoreCompileInputs.cache
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\BankingApplicationClient\bin\Debug\BankingApplication.exe.config
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\BankingApplicationClient\bin\Debug\BankingApplication.exe
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\BankingApplicationClient\bin\Debug\BankingApplication.pdb
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\BankingApplicationClient\bin\Debug\BusinessEntities.dll
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\BankingApplicationClient\bin\Debug\DataAccessLayer.dll
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\BankingApplicationClient\bin\Debug\Utilities.dll
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\BankingApplicationClient\bin\Debug\BusinessEntities.pdb
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\BankingApplicationClient\bin\Debug\DataAccessLayer.pdb
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\BankingApplicationClient\bin\Debug\Utilities.pdb
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\BankingApplicationClient\obj\Debug\BankingApplicationClient.csproj.CopyComplete
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\BankingApplicationClient\obj\Debug\BankingApplication.exe
+C:\Users\2091124\OneDrive - Cognizant\Desktop\Debugging HOL\BankingApplication\BankingApplication\BankingApplicationClient\obj\Debug\BankingApplication.pdb
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\BankingApplicationClient\bin\Debug\BankingApplication.exe.config
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\BankingApplicationClient\bin\Debug\BankingApplication.exe
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\BankingApplicationClient\bin\Debug\BankingApplication.pdb
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\BankingApplicationClient\bin\Debug\BusinessEntities.dll
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\BankingApplicationClient\bin\Debug\DataAccessLayer.dll
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\BankingApplicationClient\bin\Debug\Utilities.dll
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\BankingApplicationClient\bin\Debug\BusinessEntities.pdb
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\BankingApplicationClient\bin\Debug\DataAccessLayer.pdb
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\BankingApplicationClient\bin\Debug\Utilities.pdb
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\BankingApplicationClient\obj\Debug\BankingApplicationClient.csproj.AssemblyReference.cache
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\BankingApplicationClient\obj\Debug\BankingApplicationClient.csproj.CoreCompileInputs.cache
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\BankingApplicationClient\obj\Debug\BankingApplicationClient.csproj.CopyComplete
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\BankingApplicationClient\obj\Debug\BankingApplication.exe
+C:\Users\2091199\source\repos\BankingApplication\BankingApplication\BankingApplicationClient\obj\Debug\BankingApplication.pdb
